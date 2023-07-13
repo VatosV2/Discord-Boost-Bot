@@ -10,4 +10,4 @@
 
 # Windows
 #### py -3 -m pip install -U py-cord
-#### py -3 -m pip install -U pycord
+#### pip install pycord
