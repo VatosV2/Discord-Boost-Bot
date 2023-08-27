@@ -1,5 +1,4 @@
-import requests                                                                                                                                                                                                                                                                                                                    
-from helpers.automated_boost import *
+import requests 
 import httpx, random, time, datetime, json, os, hashlib, fade
 import webbrowser
 import sys
